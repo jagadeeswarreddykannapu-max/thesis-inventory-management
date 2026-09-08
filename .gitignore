@@ -1,0 +1,26 @@
+# Microsoft Word temporary files
+~$*.docx
+~$*.doc
+
+# Office lock/recovery files
+*.tmp
+*.asd
+
+# macOS / Windows metadata
+.DS_Store
+Thumbs.db
+
+# Python / analysis generated files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+venv/
+env/
+
+# SPSS temporary/output files (keep only intentionally versioned outputs)
+*.spv
+*.sav
+*.zsav
